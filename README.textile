@@ -1,0 +1,4 @@
+h1. JavaScript TextMate & Sublime Text 2 Bundle
+
+This is the same bundle from the original TextMate -- all props go to them. I just tweaked a few things inside beautify.php based on personal coding style.
+
